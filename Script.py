@@ -81,7 +81,7 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
- <a href="https://telegram.me/AVAFLIXOFFICIAL"><b><i>{file_name}</i></b></a>"""
+ <a href="https://telegram.me/Avaflix1"><b><i>{file_name}</i></b></a>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
